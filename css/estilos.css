@@ -168,5 +168,9 @@ main{
 }
 .currency-table--container td{
     width: 50%;
-    
+    font-size: 1.6rem;
+    font-weight: 500px;
+    line-height: 1.9rem;
+    color: var(--color-ligt-darker);
+    background-color: var(--color-light);
 }
