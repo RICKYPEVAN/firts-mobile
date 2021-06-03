@@ -133,3 +133,10 @@ main{
     line-height: 2.6rem;
     color: var(--color-dark);
 }
+.main-exchange-container p{
+    margin-bottom: 30px;
+    font-size: 1.4rem;
+    font-weight: 500px;
+    line-height: 1.6rem;
+    color: #757575;
+}
