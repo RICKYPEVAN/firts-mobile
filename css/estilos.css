@@ -231,10 +231,8 @@ main{
 }
 /* */
 
-}
-@media only screen and (max-width:784px)
 
-{
+
     .main-comision-table .comision-table--tittles{
         margin-bottom: 15px;
         font-size: 1.8rem;
@@ -244,7 +242,7 @@ main{
     
     }
     .comision-table--container{
-        width: 90%;
+        width: 70%;
         min-width: 230px;
         max-width: 300px;
         height: 250px;
@@ -274,7 +272,7 @@ main{
     .comision-table--container .table__bottom-right{
         border-radius: 0 0 15px 0;
     }
-    .currency-table--date{
+    .comision-table--date{
         width: 190px;
         height: 30px;
         margin: 0 auto;
@@ -283,7 +281,7 @@ main{
         background-color: rgba(231, 245, 255, 1);
         border-radius: 8px;
     }
-    .currency-table--date p{ 
+    .comision-table--date p{ 
         margin: 7px 0;   
         font-size: 1.2rem;
         line-height: 1.5px;
